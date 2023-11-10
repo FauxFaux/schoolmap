@@ -60,11 +60,15 @@ export const MapPage = () => {
       icon,
     });
 
-    centreObj.on('mousemove', (e) => {
+    const handleMove = (e: L.LeafletEvent) => {
       const marker = e.target;
       const position = marker.getLatLng();
       setCentre([position.lat, position.lng]);
-    });
+    };
+    centreObj.on('mousemove', handleMove);
+    centreObj.on('touchmove', handleMove);
+    centreObj.on('drag', handleMove);
+    centreObj.on('dragend', handleMove);
 
     centreObj.addTo(map);
 
@@ -113,6 +117,9 @@ export const MapPage = () => {
           : distMatch < 1.2
           ? 'warn'
           : 'bad';
+      const dateOrNa = (date: string | null | undefined) =>
+        date ? new Date(date).toISOString().substring(0, 10) : 'N/A';
+
       return (
         <tr>
           <td>
@@ -124,7 +131,6 @@ export const MapPage = () => {
           </td>
           <td>{school.name}</td>
           <td class={`map-dist-match-${distWarn}`}>{km(school.dist)}</td>
-          <td>{km(radius)}</td>
           <td>
             <abbr
               title={`${school.totalApplications} applications for ${school.offers} places`}
@@ -132,6 +138,12 @@ export const MapPage = () => {
               {onedp(appsPerPlace)}
             </abbr>
           </td>
+          <td>
+            <a href={school?.ofsted?.url} target={'_blank'}>
+              {dateOrNa(school.ofsted?.date)}
+            </a>
+          </td>
+          <td>{school.ofsted?.rating?.toLowerCase() ?? 'N/A'}</td>
         </tr>
       );
     });
@@ -142,8 +154,9 @@ export const MapPage = () => {
             <th>pin</th>
             <th>name</th>
             <th>dist</th>
-            <th>range</th>
-            <th>apps/place</th>
+            <th>apps plc</th>
+            <th>ofsted date</th>
+            <th>rating</th>
           </tr>
         </thead>
         <tbody>{rows}</tbody>

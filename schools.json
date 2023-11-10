@@ -16,7 +16,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.896,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118365",
+      "date": "24 July 2018",
+      "urn": "118365",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "5224": {
     "name": "All Soul\u2019s Church of England Primary School",
@@ -35,7 +42,14 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 1.99,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/146950",
+      "date": "09 November 2023",
+      "urn": "146950",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3909": {
     "name": "Ashford Oaks Community Primary School",
@@ -54,7 +68,8 @@
     "criteriaOffers": 21,
     "localAuthority": 0,
     "miles": 1.915,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "2060": {
     "name": "Beaver Green Primary School",
@@ -73,7 +88,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.469,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2278": {
     "name": "Bethersden Primary School",
@@ -92,7 +108,8 @@
     "criteriaOffers": 4,
     "localAuthority": 0,
     "miles": 7.241,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "3146": {
     "name": "Bodsham Church of England Primary School",
@@ -111,7 +128,14 @@
     "criteriaOffers": 6,
     "localAuthority": 0,
     "miles": 7.464,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118673",
+      "date": "15 July 2022",
+      "urn": "118673",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3136": {
     "name": "Brabourne Church of England Primary School",
@@ -130,7 +154,14 @@
     "criteriaOffers": 5,
     "localAuthority": 0,
     "miles": 5.705,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118663",
+      "date": "10 July 2018",
+      "urn": "118663",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2081": {
     "name": "Brenzett Church of England Primary School",
@@ -149,7 +180,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.477,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2279": {
     "name": "Brook Community Primary School",
@@ -168,7 +200,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.811,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3137": {
     "name": "Brookland Church of England Primary School",
@@ -187,7 +220,8 @@
     "criteriaOffers": 3,
     "localAuthority": 0,
     "miles": 5.709,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "3904": {
     "name": "Castle Hill Community Primary School",
@@ -206,7 +240,14 @@
     "criteriaOffers": 24,
     "localAuthority": 0,
     "miles": 0.871,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/133177",
+      "date": "07 January 2022",
+      "urn": "133177",
+      "category": "Primary",
+      "rating": "Requires Improvement"
+    }
   },
   "2280": {
     "name": "Challock Primary School",
@@ -225,7 +266,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.067,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3343": {
     "name": "Charing Church of England Primary School",
@@ -244,7 +286,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.665,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2510": {
     "name": "Cheriton Primary School",
@@ -263,7 +306,14 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 4.092,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118480",
+      "date": "25 November 2019",
+      "urn": "118480",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2093": {
     "name": "Chilmington Green Primary School",
@@ -282,7 +332,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 13.58,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3148": {
     "name": "Christ Church Cep Academy, Folkestone",
@@ -301,7 +352,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 1.412,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/139309",
+      "date": "23 January 2023",
+      "urn": "139309",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2692": {
     "name": "Churchill School",
@@ -320,7 +378,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 3.102,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/133367",
+      "date": "13 June 2019",
+      "urn": "133367",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2574": {
     "name": "Downs View Infant School",
@@ -339,7 +404,8 @@
     "criteriaOffers": 24,
     "localAuthority": 0,
     "miles": 4.205,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "2650": {
     "name": "Dymchurch Primary School",
@@ -358,7 +424,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 6.661,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/142347",
+      "date": "16 June 2022",
+      "urn": "142347",
+      "category": "Primary",
+      "rating": "Requires Improvement"
+    }
   },
   "2272": {
     "name": "East Stour Primary School",
@@ -377,7 +450,8 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 0.652,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3199": {
     "name": "Egerton Church of England Primary School",
@@ -396,7 +470,8 @@
     "criteriaOffers": 10,
     "localAuthority": 0,
     "miles": 5.722,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "3347": {
     "name": "Elham Church of England Primary School",
@@ -415,7 +490,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 7.043,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118741",
+      "date": "27 September 2022",
+      "urn": "118741",
+      "category": "Primary",
+      "rating": null
+    }
   },
   "2061": {
     "name": "Finberry Primary School",
@@ -434,7 +516,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 1.906,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2143": {
     "name": "Folkestone Primary",
@@ -453,7 +536,14 @@
     "criteriaOffers": null,
     "localAuthority": 2,
     "miles": 10.492,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/148068",
+      "date": "13 September 2023",
+      "urn": "148068",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3349": {
     "name": "Folkestone St Mary\u2019s Church of England Primary Academy",
@@ -472,7 +562,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 5.335,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/139310",
+      "date": "06 December 2021",
+      "urn": "139310",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2686": {
     "name": "Furley Park Primary Academy",
@@ -491,7 +588,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 6.218,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3920": {
     "name": "Goat Lees Primary School",
@@ -510,7 +608,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.859,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2625": {
     "name": "Godinton Primary School",
@@ -529,7 +628,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.623,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2282": {
     "name": "Great Chart Primary School",
@@ -548,7 +648,8 @@
     "criteriaOffers": 21,
     "localAuthority": 0,
     "miles": 0.504,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "5218": {
     "name": "Greatstone Primary School",
@@ -567,7 +668,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.563,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2286": {
     "name": "Hamstreet Primary Academy",
@@ -586,7 +688,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.833,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "5225": {
     "name": "Harcourt Primary School",
@@ -605,7 +708,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 1.794,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118871",
+      "date": "16 November 2021",
+      "urn": "118871",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2298": {
     "name": "Hawkinge Primary School",
@@ -624,7 +734,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.598,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118385",
+      "date": "03 July 2019",
+      "urn": "118385",
+      "category": "Primary",
+      "rating": "Outstanding"
+    }
   },
   "3139": {
     "name": "High Halden Church of England Primary School",
@@ -643,7 +760,8 @@
     "criteriaOffers": 8,
     "localAuthority": 0,
     "miles": 2.89,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "3902": {
     "name": "Hythe Bay CofE Primary School",
@@ -662,7 +780,14 @@
     "criteriaOffers": 23,
     "localAuthority": 3,
     "miles": 11.778,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/131020",
+      "date": "23 March 2023",
+      "urn": "131020",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3134": {
     "name": "John Mayne Church of England Primary School",
@@ -681,7 +806,8 @@
     "criteriaOffers": null,
     "localAuthority": 4,
     "miles": 1.114,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "6919": {
     "name": "John Wallis Church of England Academy",
@@ -700,7 +826,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 1.156,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3299": {
     "name": "John Wesley Church of England Methodist Voluntary Aided Primary School",
@@ -719,7 +846,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 5.569,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3140": {
     "name": "Kingsnorth Church of England Primary School",
@@ -738,7 +866,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 3.496,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3284": {
     "name": "Lady Joanna Thornhill Endowed Primary School",
@@ -757,7 +886,8 @@
     "criteriaOffers": 22,
     "localAuthority": 0,
     "miles": 6.027,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "2059": {
     "name": "Lydd Primary School",
@@ -776,7 +906,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 3.563,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3154": {
     "name": "Lyminge Church of England Primary School",
@@ -795,7 +926,14 @@
     "criteriaOffers": 9,
     "localAuthority": 0,
     "miles": 9.492,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118679",
+      "date": "11 September 2018",
+      "urn": "118679",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3155": {
     "name": "Lympne Church of England Primary School",
@@ -814,7 +952,14 @@
     "criteriaOffers": 13,
     "localAuthority": 0,
     "miles": 2.227,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118680",
+      "date": "16 November 2021",
+      "urn": "118680",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2039": {
     "name": "Martello Primary",
@@ -833,7 +978,14 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 2.163,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/140433",
+      "date": "05 May 2022",
+      "urn": "140433",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2285": {
     "name": "Mersham Primary School",
@@ -852,7 +1004,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 2.974,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2087": {
     "name": "Morehall Primary School",
@@ -871,7 +1024,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.485,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/145012",
+      "date": "21 October 2019",
+      "urn": "145012",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2296": {
     "name": "Mundella Primary School",
@@ -890,7 +1050,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.714,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/148711",
+      "date": "09 September 2021",
+      "urn": "148711",
+      "category": "Primary",
+      "rating": null
+    }
   },
   "2524": {
     "name": "Palmarsh Primary School",
@@ -909,7 +1076,14 @@
     "criteriaOffers": 15,
     "localAuthority": 0,
     "miles": 0.159,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118490",
+      "date": "06 November 2019",
+      "urn": "118490",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3893": {
     "name": "Phoenix Community Primary School",
@@ -928,7 +1102,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.714,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3142": {
     "name": "Pluckley Church of England Primary School",
@@ -947,7 +1122,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 10.028,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2002": {
     "name": "Repton Manor Primary School",
@@ -966,7 +1142,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.433,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2287": {
     "name": "Rolvenden Primary School",
@@ -985,7 +1162,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 4.738,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3350": {
     "name": "Saltwood CofE Primary School",
@@ -1004,7 +1182,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.852,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118744",
+      "date": "06 July 2022",
+      "urn": "118744",
+      "category": "Primary",
+      "rating": null
+    }
   },
   "2545": {
     "name": "Sandgate Primary School",
@@ -1023,7 +1208,14 @@
     "criteriaOffers": 24,
     "localAuthority": 0,
     "miles": 0.763,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118505",
+      "date": "11 November 2021",
+      "urn": "118505",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3153": {
     "name": "Seabrook Church of England Primary School",
@@ -1042,7 +1234,14 @@
     "criteriaOffers": 8,
     "localAuthority": 0,
     "miles": 0.368,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118678",
+      "date": "09 September 2011",
+      "urn": "118678",
+      "category": "Primary",
+      "rating": "Outstanding"
+    }
   },
   "2300": {
     "name": "Sellindge Primary School",
@@ -1061,7 +1260,14 @@
     "criteriaOffers": 6,
     "localAuthority": 0,
     "miles": 40.256,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118387",
+      "date": "17 March 2023",
+      "urn": "118387",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3160": {
     "name": "Selsted Church of England Primary School",
@@ -1080,7 +1286,14 @@
     "criteriaOffers": 5,
     "localAuthority": 0,
     "miles": 5.56,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118683",
+      "date": "15 December 2022",
+      "urn": "118683",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2288": {
     "name": "Smarden Primary School",
@@ -1099,7 +1312,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 3.008,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2289": {
     "name": "Smeeth Community Primary School",
@@ -1118,7 +1332,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 6.695,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118381",
+      "date": "15 September 2023",
+      "urn": "118381",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3718": {
     "name": "St Augustine\u2019s Catholic Primary School",
@@ -1137,7 +1358,14 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 3.379,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/149261",
+      "date": "08 September 2022",
+      "urn": "149261",
+      "category": "Primary",
+      "rating": null
+    }
   },
   "3348": {
     "name": "St Eanswythe\u2019s Church of England Primary School",
@@ -1156,7 +1384,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.857,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/139315",
+      "date": "08 April 2019",
+      "urn": "139315",
+      "category": "Primary",
+      "rating": "Outstanding"
+    }
   },
   "3149": {
     "name": "St Martin\u2019s Church of England Primary School",
@@ -1175,7 +1410,14 @@
     "criteriaOffers": 13,
     "localAuthority": 0,
     "miles": 0.592,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118675",
+      "date": "18 May 2015",
+      "urn": "118675",
+      "category": "Primary",
+      "rating": "Outstanding"
+    }
   },
   "3340": {
     "name": "Ashford St Mary's Church of England Primary School",
@@ -1194,7 +1436,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.872,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3143": {
     "name": "St Michael\u2019s Church of England Primary School",
@@ -1213,7 +1456,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 3.804,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2078": {
     "name": "St Nicholas Church of England Primary Academy",
@@ -1232,7 +1476,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 9.701,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3150": {
     "name": "St Peter\u2019s Church of England Primary School",
@@ -1251,7 +1496,14 @@
     "criteriaOffers": 6,
     "localAuthority": 0,
     "miles": 0.855,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118676",
+      "date": "11 July 2019",
+      "urn": "118676",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3743": {
     "name": "St Simon of England Roman Catholic Primary School",
@@ -1270,7 +1522,8 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 0.608,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3716": {
     "name": "St Teresa\u2019s Catholic Primary School",
@@ -1289,7 +1542,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 1.414,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "5216": {
     "name": "Stella Maris Catholic Primary School",
@@ -1308,7 +1562,14 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 0.307,
-    "authority": true
+    "authority": true,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/141629",
+      "date": "15 September 2023",
+      "urn": "141629",
+      "category": "Primary",
+      "rating": null
+    }
   },
   "3158": {
     "name": "Stelling Minnis Church of England Primary School",
@@ -1327,7 +1588,14 @@
     "criteriaOffers": 1,
     "localAuthority": 0,
     "miles": 5.723,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118681",
+      "date": "26 July 2022",
+      "urn": "118681",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "3159": {
     "name": "Stowting Church of England Primary School",
@@ -1346,7 +1614,14 @@
     "criteriaOffers": 8,
     "localAuthority": 0,
     "miles": 2.373,
-    "authority": false
+    "authority": false,
+    "ofsted": {
+      "url": "https://reports.ofsted.gov.uk/provider/21/118682",
+      "date": "28 November 2019",
+      "urn": "118682",
+      "category": "Primary",
+      "rating": "Good"
+    }
   },
   "2290": {
     "name": "Tenterden Infant School",
@@ -1365,7 +1640,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 8.789,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "2275": {
     "name": "Victoria Road Primary School",
@@ -1384,7 +1660,8 @@
     "criteriaOffers": 8,
     "localAuthority": 0,
     "miles": 1.198,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   },
   "2276": {
     "name": "Willesborough Infant School",
@@ -1403,7 +1680,8 @@
     "criteriaOffers": null,
     "localAuthority": 1,
     "miles": 9.574,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3346": {
     "name": "Wittersham Church of England Primary School",
@@ -1422,7 +1700,8 @@
     "criteriaOffers": null,
     "localAuthority": 0,
     "miles": 8.27,
-    "authority": true
+    "authority": true,
+    "ofsted": null
   },
   "3145": {
     "name": "Woodchurch Church of England Primary School",
@@ -1441,6 +1720,7 @@
     "criteriaOffers": 12,
     "localAuthority": 0,
     "miles": 6.322,
-    "authority": false
+    "authority": false,
+    "ofsted": null
   }
 }

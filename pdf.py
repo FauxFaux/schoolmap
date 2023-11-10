@@ -1,7 +1,10 @@
 import json
 import os
 import re
+
+import difflib
 import requests
+from bs4 import BeautifulSoup
 
 
 def parse_school(chunk: list[str]):
@@ -47,6 +50,7 @@ def yes_no(s: str):
     if s == 'No':
         return False
     return None
+
 
 def offer_listing(page: str):
     lines = page.split('\n')
@@ -100,6 +104,19 @@ def main():
         db[flat_addr] = r.json()
         json.dump(db, open('addr.json', 'w'), indent=2)
 
+    # https://reports.ofsted.gov.uk/search?q=&location=Folkestone%2C+UK&lat=51.081397&lon=1.169456&radius=10&level_1_types=1&level_2_types%5B0%5D=1&local_authority%5B0%5D=886&status%5B0%5D=1&start=0&rows=1000
+    soup = BeautifulSoup(open('ofsted-flk.html', 'r').read(), 'html.parser')
+    ofsted_list = {}
+    for li in soup.find_all('li', class_='search-result'):
+        # print(li.prettify())
+        header = li.h3.a
+        data = dict(l.text.split(': ', 1) for l in li.find_all('li'))
+        data['url'] = 'https://reports.ofsted.gov.uk' + header['href']
+        name = header.text.strip()
+        data['name'] = name
+        data['address'] = li.address.text.strip()
+        ofsted_list[postcode(data['address'])] = data
+
     js = {}
 
     for (addr, data) in school_list:
@@ -110,6 +127,25 @@ def main():
             raise Exception('No offer details for ' + str(no))
         offer = offer_details[0]
         loc = db[flat_addr]['results'][0]['geometry']['location']
+
+        pc = postcode(flat_addr)
+        # close = difflib.get_close_matches(flat_addr, ofsted_list.keys(), n=1, cutoff=0.7)
+        # if len(close) == 0:
+        #     print(flat_addr)
+        # for c in close:
+        #     print(flat_addr, '->', c)
+        of = ofsted_list.get(pc)
+        ofsted = None
+        if of:
+            ofsted = {
+                'url': of['url'],
+                'date': of['Latest report'],
+                'urn': of['URN'],
+                'category': of['Category'],
+                'rating': of.get('Rating'),
+            }
+
+
         js[no] = {'name': offer['name'],
                   'lat': loc['lat'], 'lng': loc['lng'],
                   'address': addr,
@@ -126,12 +162,21 @@ def main():
                   'localAuthority': offer['la'],
                   'miles': offer['miles'],
                   'authority': offer['auth'],
+                  'ofsted': ofsted,
                   }
 
     json.dump(js, open('schools.json', 'w'), indent=2)
 
+
 def flatten_addr(addr):
     return ', '.join(addr.split('\n')[:-1])
+
+
+def postcode(addr):
+    for line in addr.split(', '):
+        if re.match('^[A-Z]{1,2}[0-9]{1,2} [0-9][A-Z]{2}$', line):
+            return line
+    raise Exception('No postcode in ' + addr)
 
 
 if __name__ == '__main__':
