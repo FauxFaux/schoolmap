@@ -1,0 +1,6819 @@
+{
+  "Aldington Primary School, Roman Road, Aldington, Ashford, TN25 7EE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Aldington",
+            "short_name": "Aldington",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 7EE",
+            "short_name": "TN25 7EE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Aldington, Ashford TN25 7EE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0901771,
+            "lng": 0.9467116999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0916466302915,
+              "lng": 0.9481957802915021
+            },
+            "southwest": {
+              "lat": 51.0889486697085,
+              "lng": 0.945497819708498
+            }
+          }
+        },
+        "place_id": "ChIJOSm9LlnD3kcR5FmL6jwBOvQ",
+        "plus_code": {
+          "compound_code": "3WRW+3M Ashford, UK",
+          "global_code": "9F323WRW+3M"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "All Souls\u2019 Church of England, Primary School, Stanley Road, Folkestone, CT19 4LG": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "111",
+            "short_name": "111",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Stanley Road",
+            "short_name": "Stanley Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 4LG",
+            "short_name": "CT19 4LG",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "111 Stanley Rd, Folkestone CT19 4LG, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0884061,
+            "lng": 1.1417063
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0897691802915,
+              "lng": 1.143124830291502
+            },
+            "southwest": {
+              "lat": 51.0870712197085,
+              "lng": 1.140426869708498
+            }
+          }
+        },
+        "place_id": "ChIJ4QyzE0u_3kcRwwXhayWT5OA",
+        "plus_code": {
+          "compound_code": "34QR+9M Folkestone, UK",
+          "global_code": "9F3334QR+9M"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Ashford Oaks Primary School, Oak Tree Road, Ashford, TN23 4QR": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Oak Tree Road",
+            "short_name": "Oak Tree Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 4QR",
+            "short_name": "TN23 4QR",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Oak Tree Rd, Ashford TN23 4QR, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.14076679999999,
+            "lng": 0.8570939
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.14216798029149,
+              "lng": 0.8585419302915019
+            },
+            "southwest": {
+              "lat": 51.1394700197085,
+              "lng": 0.8558439697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJWxFBJTHa3kcRgjB-shqtWYI",
+        "plus_code": {
+          "compound_code": "4VR4+8R Ashford, UK",
+          "global_code": "9F324VR4+8R"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Beaver Green Primary School, Cuckoo Lane, Ashford, TN23 5DA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Cuckoo Lane",
+            "short_name": "Cuckoo Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 5DA",
+            "short_name": "TN23 5DA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Cuckoo Ln, Ashford TN23 5DA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1348838,
+            "lng": 0.8495478999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1363111302915,
+              "lng": 0.850958830291502
+            },
+            "southwest": {
+              "lat": 51.1336131697085,
+              "lng": 0.8482608697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJZ3gYw8zb3kcRz__C67eByBs",
+        "plus_code": {
+          "compound_code": "4RMX+XR Ashford, UK",
+          "global_code": "9F324RMX+XR"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Bethersden Primary School, School Road, Bethersden, Ashford, TN26 3AH": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "School Road",
+            "short_name": "School Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Bethersden",
+            "short_name": "Bethersden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN26 3AH",
+            "short_name": "TN26 3AH",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "School Rd, Bethersden, Ashford TN26 3AH, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.12763310000002,
+              "lng": 0.7505685999999999
+            },
+            "southwest": {
+              "lat": 51.12597719999997,
+              "lng": 0.7494714
+            }
+          },
+          "location": {
+            "lat": 51.1267187,
+            "lng": 0.7500078
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1281541302915,
+              "lng": 0.7513689802915021
+            },
+            "southwest": {
+              "lat": 51.1254561697085,
+              "lng": 0.748671019708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EitTY2hvb2wgUmQsIEJldGhlcnNkZW4sIEFzaGZvcmQgVE4yNiAzQUgsIFVLIi4qLAoUChIJT3fLD4PY3kcROrKdaZRu3zYSFAoSCYmVqAyD2N5HEa8d2GgDYXE3",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Bodsham Church of England Primary, School, School Hill, Bodsham, Ashford, TN25 5JQ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Bodsham",
+            "short_name": "Bodsham",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 5JQ",
+            "short_name": "TN25 5JQ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Bodsham, Ashford TN25 5JQ, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.172584,
+            "lng": 1.0148759
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1739329802915,
+              "lng": 1.016224880291502
+            },
+            "southwest": {
+              "lat": 51.1712350197085,
+              "lng": 1.013526919708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJCXPnWPbF3kcRuIT2zrMpZ8c",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "School Hill",
+            "short_name": "School Hill",
+            "types": [
+              "colloquial_area",
+              "political"
+            ]
+          },
+          {
+            "long_name": "School Hill",
+            "short_name": "School Hill",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Meeme",
+            "short_name": "Meeme",
+            "types": [
+              "administrative_area_level_3",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Manitowoc County",
+            "short_name": "Manitowoc County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Wisconsin",
+            "short_name": "WI",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "53042",
+            "short_name": "53042",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "School Hill, WI 53042, USA",
+        "geometry": {
+          "location": {
+            "lat": 43.9499933,
+            "lng": -87.8939802
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 43.95134228029151,
+              "lng": -87.89263121970849
+            },
+            "southwest": {
+              "lat": 43.94864431970851,
+              "lng": -87.8953291802915
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJD-5Pg1hoA4gRHB_PMpE6Fdw",
+        "types": [
+          "colloquial_area",
+          "political"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Brabourne Church of England, Primary School, School Lane, Brabourne, Ashford, TN25 5LQ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Brabourne Lane",
+            "short_name": "Brabourne Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25",
+            "short_name": "TN25",
+            "types": [
+              "postal_code",
+              "postal_code_prefix"
+            ]
+          }
+        ],
+        "formatted_address": "Brabourne Ln, Ashford TN25, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.14657300000002,
+              "lng": 1.0296087
+            },
+            "southwest": {
+              "lat": 51.14031929999997,
+              "lng": 1.0166548
+            }
+          },
+          "location": {
+            "lat": 51.1437273,
+            "lng": 1.0226953
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.14657300000002,
+              "lng": 1.0296087
+            },
+            "southwest": {
+              "lat": 51.14031929999997,
+              "lng": 1.0166548
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "Eh5CcmFib3VybmUgTG4sIEFzaGZvcmQgVE4yNSwgVUsiLiosChQKEgkpNnXh2cXeRxEfwMYPoWnGkBIUChIJRYbtSwnZ3kcRcEztoi2uDgQ",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Brenzett Church of England, Primary School, Brenzett, Romney Marsh, TN29 9UA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "TN29 9UA",
+            "short_name": "TN29 9UA",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Brenzett",
+            "short_name": "Brenzett",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Romney Marsh",
+            "short_name": "Romney Marsh",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Brenzett, Romney Marsh TN29 9UA, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.0086086,
+              "lng": 0.8579916999999999
+            },
+            "southwest": {
+              "lat": 51.0062024,
+              "lng": 0.8532171
+            }
+          },
+          "location": {
+            "lat": 51.00762779999999,
+            "lng": 0.8567184999999999
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 51.00875448029149,
+              "lng": 0.8579916999999999
+            },
+            "southwest": {
+              "lat": 51.0060565197085,
+              "lng": 0.8532171
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJ3zogDF_n3kcR15klhdidKTk",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Brook Community Primary School, Spelders Hill, Brook, Ashford, TN25 5PB": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Spelders Hill",
+            "short_name": "Spelders Hill",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 5PB",
+            "short_name": "TN25 5PB",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Spelders Hill, Ashford TN25 5PB, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1548457,
+            "lng": 0.9457363999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1561457802915,
+              "lng": 0.9471807802915019
+            },
+            "southwest": {
+              "lat": 51.1534478197085,
+              "lng": 0.9444828197084978
+            }
+          }
+        },
+        "place_id": "ChIJ65ruQUbF3kcRCHvT0SsJnxg",
+        "plus_code": {
+          "compound_code": "5W3W+W7 Ashford, UK",
+          "global_code": "9F325W3W+W7"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Brookland Church of England, Primary School, High Street, Brookland, Romney Marsh, TN29 9QR": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "High Street",
+            "short_name": "High St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Brookland",
+            "short_name": "Brookland",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Romney Marsh",
+            "short_name": "Romney Marsh",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN29 9QR",
+            "short_name": "TN29 9QR",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "High St, Brookland, Romney Marsh TN29 9QR, UK",
+        "geometry": {
+          "location": {
+            "lat": 50.9974479,
+            "lng": 0.8341710999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 50.9988724302915,
+              "lng": 0.835446580291502
+            },
+            "southwest": {
+              "lat": 50.9961744697085,
+              "lng": 0.8327486197084979
+            }
+          }
+        },
+        "place_id": "ChIJs45k7rLg3kcR2hEAr27SO-U",
+        "plus_code": {
+          "compound_code": "XRWM+XM Romney Marsh, UK",
+          "global_code": "9F22XRWM+XM"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Castle Hill Community Primary, School, Sidney Street, Folkestone, CT19 6HG": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Sidney Street",
+            "short_name": "Sidney St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 6HG",
+            "short_name": "CT19 6HG",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Sidney St, Folkestone CT19 6HG, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.08956939999999,
+            "lng": 1.1859086
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0906707302915,
+              "lng": 1.187465330291502
+            },
+            "southwest": {
+              "lat": 51.0879727697085,
+              "lng": 1.184767369708498
+            }
+          }
+        },
+        "place_id": "ChIJgxzb0My-3kcR-f1c-WOgbig",
+        "plus_code": {
+          "compound_code": "35QP+R9 Folkestone, UK",
+          "global_code": "9F3335QP+R9"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Challock Primary School, Church Lane, Challock, Ashford, TN25 4BU": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Lane",
+            "short_name": "Church Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Challock",
+            "short_name": "Challock",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 4BU",
+            "short_name": "TN25 4BU",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church Ln, Challock, Ashford TN25 4BU, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.2167205,
+            "lng": 0.8756499
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.2180701302915,
+              "lng": 0.876993830291502
+            },
+            "southwest": {
+              "lat": 51.2153721697085,
+              "lng": 0.8742958697084979
+            }
+          }
+        },
+        "place_id": "ChIJH1BWUkvC3kcRQ0crJpiMQhU",
+        "plus_code": {
+          "compound_code": "6V8G+M7 Ashford, UK",
+          "global_code": "9F326V8G+M7"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Charing Church of England, Primary School, School Road, Charing, Ashford, TN27 0JN": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Downs Way",
+            "short_name": "Downs Way",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Charing",
+            "short_name": "Charing",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 0JP",
+            "short_name": "TN27 0JP",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "2 Downs Way, Charing, Ashford TN27 0JP, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.2113049,
+            "lng": 0.7933382
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 51.21273828029151,
+              "lng": 0.794820580291502
+            },
+            "southwest": {
+              "lat": 51.21004031970851,
+              "lng": 0.792122619708498
+            }
+          }
+        },
+        "place_id": "ChIJg-ygr6nX3kcRYNQXzrseXVY",
+        "plus_code": {
+          "compound_code": "6Q6V+G8 Ashford, UK",
+          "global_code": "9F326Q6V+G8"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Cheriton Primary School, Church Road, Folkestone, CT20 3EP": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Road",
+            "short_name": "Church Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT20 3EP",
+            "short_name": "CT20 3EP",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church Rd, Folkestone CT20 3EP, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0871506,
+            "lng": 1.1316123
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0885318302915,
+              "lng": 1.133147780291502
+            },
+            "southwest": {
+              "lat": 51.0858338697085,
+              "lng": 1.130449819708498
+            }
+          }
+        },
+        "place_id": "ChIJsSVHDVK_3kcRd6OeCUkC9zs",
+        "plus_code": {
+          "compound_code": "34PJ+VJ Folkestone, UK",
+          "global_code": "9F3334PJ+VJ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Chilmington Green Primary School, Mock Lane, Great Chart, Ashford, TN23 3DS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Mock Lane",
+            "short_name": "Mock Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3DS",
+            "short_name": "TN23 3DS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mock Ln, Ashford TN23 3DS, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1315952,
+            "lng": 0.8243841
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1330191802915,
+              "lng": 0.825735780291502
+            },
+            "southwest": {
+              "lat": 51.1303212197085,
+              "lng": 0.8230378197084979
+            }
+          }
+        },
+        "place_id": "ChIJP8LNnXfZ3kcRCdNgMHMtNjM",
+        "plus_code": {
+          "compound_code": "4RJF+JQ Ashford, UK",
+          "global_code": "9F324RJF+JQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Christ Church Church of England, Academy, Brockman Road, Folkestone, CT20 1DJ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Brockman Road",
+            "short_name": "Brockman Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT20 1DJ",
+            "short_name": "CT20 1DJ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Brockman Rd, Folkestone CT20 1DJ, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.08232080000003,
+              "lng": 1.1754224
+            },
+            "southwest": {
+              "lat": 51.08170389999997,
+              "lng": 1.1716411
+            }
+          },
+          "location": {
+            "lat": 51.0822427,
+            "lng": 1.1739647
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0833613302915,
+              "lng": 1.1754224
+            },
+            "southwest": {
+              "lat": 51.0806633697085,
+              "lng": 1.1716411
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EiRCcm9ja21hbiBSZCwgRm9sa2VzdG9uZSBDVDIwIDFESiwgVUsiLiosChQKEgmJ0MEf177eRxHdHnC3ICZLVBIUChIJRWJP4ta-3kcRACQdyGS-RGg",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Churchill School, Haven Drive, Hawkinge, Folkestone, CT18 7RH": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Haven Drive",
+            "short_name": "Haven Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hawkinge",
+            "short_name": "Hawkinge",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT18 7RH",
+            "short_name": "CT18 7RH",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Haven Dr, Hawkinge, Folkestone CT18 7RH, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1128005,
+            "lng": 1.1589058
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.11420023029149,
+              "lng": 1.160168380291502
+            },
+            "southwest": {
+              "lat": 51.1115022697085,
+              "lng": 1.157470419708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJG9XD2ue43kcRSzvkEsovK-s",
+        "plus_code": {
+          "compound_code": "4575+4H Folkestone, UK",
+          "global_code": "9F334575+4H"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Downs View Infant School, Ball Lane, Kennington, Ashford, TN25 4PJ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Ball Lane",
+            "short_name": "Ball Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 4PJ",
+            "short_name": "TN25 4PJ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Ball Ln, Ashford TN25 4PJ, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1705811,
+            "lng": 0.8901564
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1718254302915,
+              "lng": 0.8915633802915021
+            },
+            "southwest": {
+              "lat": 51.1691274697085,
+              "lng": 0.888865419708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJq7wFTIfa3kcRzCXRddTwPH4",
+        "plus_code": {
+          "compound_code": "5VCR+63 Ashford, UK",
+          "global_code": "9F325VCR+63"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Dymchurch Primary School, New Hall Close, Dymchurch, Romney Marsh, TN29 0LE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "New Hall Close",
+            "short_name": "New Hall Cl",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Dymchurch",
+            "short_name": "Dymchurch",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Romney Marsh",
+            "short_name": "Romney Marsh",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN29 0LE",
+            "short_name": "TN29 0LE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Dymchurch Primary School, New Hall Cl, Dymchurch, Romney Marsh TN29 0LE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.02807689999999,
+            "lng": 0.9955567000000001
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.02973018029149,
+              "lng": 0.9973228302915021
+            },
+            "southwest": {
+              "lat": 51.0270322197085,
+              "lng": 0.9946248697084981
+            }
+          }
+        },
+        "place_id": "ChIJlSE_bWrC3kcRbOUQELeGF3o",
+        "plus_code": {
+          "compound_code": "2XHW+66 Romney Marsh, UK",
+          "global_code": "9F322XHW+66"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "East Stour Primary School, Earlsworth Road, Willesborough, Ashford, TN24 0DW": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Earlsworth Road",
+            "short_name": "Earlsworth Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Willesborough",
+            "short_name": "Willesborough",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN24 0DW",
+            "short_name": "TN24 0DW",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Earlsworth Rd, Willesborough, Ashford TN24 0DW, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1304186,
+            "lng": 0.8820936
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1317757802915,
+              "lng": 0.883736980291502
+            },
+            "southwest": {
+              "lat": 51.1290778197085,
+              "lng": 0.881039019708498
+            }
+          }
+        },
+        "place_id": "ChIJpVyRU6rb3kcRCrJbnkbELvU",
+        "plus_code": {
+          "compound_code": "4VJJ+5R Ashford, UK",
+          "global_code": "9F324VJJ+5R"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Egerton Church of England, Primary School, Stisted Way, Egerton, Ashford, TN27 9DR": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Stisted Way",
+            "short_name": "Stisted Way",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Egerton",
+            "short_name": "Egerton",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 9DR",
+            "short_name": "TN27 9DR",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Stisted Way, Egerton, Ashford TN27 9DR, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1939327,
+            "lng": 0.7270675999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1953799802915,
+              "lng": 0.728647730291502
+            },
+            "southwest": {
+              "lat": 51.1926820197085,
+              "lng": 0.7259497697084979
+            }
+          }
+        },
+        "place_id": "ChIJdUZZ9BQo30cRCQ3yqRlIyRw",
+        "plus_code": {
+          "compound_code": "5PVG+HR Ashford, UK",
+          "global_code": "9F325PVG+HR"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Elham Church of England, Primary School, Vicarage Lane, Elham, Canterbury, CT4 6TT": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Vicarage Lane",
+            "short_name": "Vicarage Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Elham",
+            "short_name": "Elham",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Canterbury",
+            "short_name": "Canterbury",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT4 6TT",
+            "short_name": "CT4 6TT",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Vicarage Ln, Elham, Canterbury CT4 6TT, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1514766,
+            "lng": 1.1105848
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.15290733029149,
+              "lng": 1.111889680291502
+            },
+            "southwest": {
+              "lat": 51.15020936970849,
+              "lng": 1.109191719708498
+            }
+          }
+        },
+        "place_id": "ChIJqY9375LH3kcRKGcIxyT4c6M",
+        "plus_code": {
+          "compound_code": "5426+H6 Canterbury, UK",
+          "global_code": "9F335426+H6"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Finberry Primary School, Avocet Way, Sevington, Ashford, TN25 7GS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Avocet Way",
+            "short_name": "Avocet Way",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kingsnorth",
+            "short_name": "Kingsnorth",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 7GS",
+            "short_name": "TN25 7GS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Avocet Way, Kingsnorth, Ashford TN25 7GS, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1183018,
+            "lng": 0.8883724
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.11971613029149,
+              "lng": 0.8899724302915021
+            },
+            "southwest": {
+              "lat": 51.1170181697085,
+              "lng": 0.887274469708498
+            }
+          }
+        },
+        "place_id": "ChIJtf9fkjba3kcRtyK_bF4yDDY",
+        "plus_code": {
+          "compound_code": "4V9Q+88 Ashford, UK",
+          "global_code": "9F324V9Q+88"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Folkestone Primary, Academy Lane, Folkestone, CT19 5FP": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Primary",
+            "short_name": "Primary",
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ]
+          },
+          {
+            "long_name": "Academy Lane",
+            "short_name": "Academy Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Park Farm Industrial Estate",
+            "short_name": "Park Farm Industrial Estate",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 5FP",
+            "short_name": "CT19 5FP",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Primary, Academy Ln, Park Farm Industrial Estate, Folkestone CT19 5FP, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0925118,
+            "lng": 1.1684031
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.09413703029149,
+              "lng": 1.170126730291502
+            },
+            "southwest": {
+              "lat": 51.09143906970849,
+              "lng": 1.167428769708498
+            }
+          }
+        },
+        "place_id": "ChIJQR2vF3q53kcRpS7ZTXK3zfM",
+        "plus_code": {
+          "compound_code": "35V9+29 Folkestone, UK",
+          "global_code": "9F3335V9+29"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Folkestone, St Mary\u2019s Church of, England Primary Academy, Warren Road, Folkestone, CT19 6QH": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Warren Road",
+            "short_name": "Warren Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 6QH",
+            "short_name": "CT19 6QH",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Warren Rd, Folkestone CT19 6QH, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0862974,
+            "lng": 1.1944301
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0876871802915,
+              "lng": 1.195763730291502
+            },
+            "southwest": {
+              "lat": 51.0849892197085,
+              "lng": 1.193065769708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJUVrkbMq-3kcRWVlCUD7Lrxo",
+        "plus_code": {
+          "compound_code": "35PV+GQ Folkestone, UK",
+          "global_code": "9F3335PV+GQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Furley Park Primary Academy, Reed Crescent, Kingsnorth, Ashford, TN23 3PA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Reed Crescent",
+            "short_name": "Reed Cres",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kingsnorth",
+            "short_name": "Kingsnorth",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3PA",
+            "short_name": "TN23 3PA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Reed Cres, Kingsnorth, Ashford TN23 3PA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1145311,
+            "lng": 0.8734428999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1159544802915,
+              "lng": 0.874893030291502
+            },
+            "southwest": {
+              "lat": 51.1132565197085,
+              "lng": 0.8721950697084979
+            }
+          }
+        },
+        "place_id": "ChIJVdqXa73b3kcR2GiufaquReo",
+        "plus_code": {
+          "compound_code": "4V7F+R9 Ashford, UK",
+          "global_code": "9F324V7F+R9"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Goat Lees Primary School, Hurst Road, Kennington, Ashford, TN24 9RR": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hurst Road",
+            "short_name": "Hurst Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kennington",
+            "short_name": "Kennington",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN24 9RR",
+            "short_name": "TN24 9RR",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hurst Rd, Kennington, Ashford TN24 9RR, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1710121,
+            "lng": 0.8737092
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1725310302915,
+              "lng": 0.8748765802915021
+            },
+            "southwest": {
+              "lat": 51.1698330697085,
+              "lng": 0.872178619708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJy1gVKnHa3kcRnQMz_7BlHkk",
+        "plus_code": {
+          "compound_code": "5VCF+CF Ashford, UK",
+          "global_code": "9F325VCF+CF"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Godinton Primary School, Lockholt Close, Ashford, TN23 3JR": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Lockholt Close",
+            "short_name": "Lockholt Cl",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3JR",
+            "short_name": "TN23 3JR",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Lockholt Cl, Ashford TN23 3JR, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1535118,
+            "lng": 0.8444254
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1549055302915,
+              "lng": 0.845833830291502
+            },
+            "southwest": {
+              "lat": 51.1522075697085,
+              "lng": 0.843135869708498
+            }
+          }
+        },
+        "place_id": "ChIJE7i0eyHa3kcREWlEsWLR8v8",
+        "plus_code": {
+          "compound_code": "5R3V+CQ Ashford, UK",
+          "global_code": "9F325R3V+CQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Great Chart Primary School, Hoxton Close, Singleton, Ashford, TN23 5LB": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hoxton Close",
+            "short_name": "Hoxton Cl",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 5LB",
+            "short_name": "TN23 5LB",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hoxton Cl, Ashford TN23 5LB, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.13865999999999,
+            "lng": 0.841229
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.14016473029149,
+              "lng": 0.842259230291502
+            },
+            "southwest": {
+              "lat": 51.1374667697085,
+              "lng": 0.8395612697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJqbDZpYDZ3kcRzOZ6bgSQkjA",
+        "plus_code": {
+          "compound_code": "4RQR+FF Ashford, UK",
+          "global_code": "9F324RQR+FF"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Greatstone Primary School, Baldwin Road, Greatstone, New Romney, TN28 8SY": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Baldwin Road",
+            "short_name": "Baldwin Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Greatstone",
+            "short_name": "Greatstone",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New Romney",
+            "short_name": "New Romney",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN28 8SY",
+            "short_name": "TN28 8SY",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Baldwin Rd, Greatstone, New Romney TN28 8SY, UK",
+        "geometry": {
+          "location": {
+            "lat": 50.9640923,
+            "lng": 0.9577882999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 50.96535368029149,
+              "lng": 0.959147980291502
+            },
+            "southwest": {
+              "lat": 50.96265571970849,
+              "lng": 0.9564500197084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJS02cVfbo3kcRuQ0FOUzTUVI",
+        "plus_code": {
+          "compound_code": "XX75+J4 New Romney, UK",
+          "global_code": "9F22XX75+J4"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Hamstreet Primary Academy, Hamstreet, Ashford, TN26 2EA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hamstreet",
+            "short_name": "Hamstreet",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN26 2EA",
+            "short_name": "TN26 2EA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hamstreet, Ashford TN26 2EA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0694019,
+            "lng": 0.8526657999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0707610802915,
+              "lng": 0.8540546802915021
+            },
+            "southwest": {
+              "lat": 51.0680631197085,
+              "lng": 0.851356719708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJU4CJ_Dzc3kcRT57iqOJq5Ic",
+        "plus_code": {
+          "compound_code": "3V93+Q3 Ashford, UK",
+          "global_code": "9F323V93+Q3"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Harcourt Primary School, Biggins Wood Road, Folkestone, CT19 4NE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 4NE",
+            "short_name": "CT19 4NE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Biggins Wood Road, Folkestone CT19 4NE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0936724,
+            "lng": 1.1407492
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0950977802915,
+              "lng": 1.141973130291502
+            },
+            "southwest": {
+              "lat": 51.0923998197085,
+              "lng": 1.139275169708498
+            }
+          }
+        },
+        "place_id": "ChIJk0BQ_LS43kcRJOSXQL0OIA8",
+        "plus_code": {
+          "compound_code": "34VR+F7 Folkestone, UK",
+          "global_code": "9F3334VR+F7"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Hawkinge Primary School, Canterbury Road, Hawkinge, Folkestone, CT18 7BN": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Canterbury Road",
+            "short_name": "Canterbury Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hawkinge",
+            "short_name": "Hawkinge",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT18 7BN",
+            "short_name": "CT18 7BN",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Canterbury Rd, Hawkinge, Folkestone CT18 7BN, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1156297,
+            "lng": 1.1657031
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1169519802915,
+              "lng": 1.167223930291502
+            },
+            "southwest": {
+              "lat": 51.1142540197085,
+              "lng": 1.164525969708498
+            }
+          }
+        },
+        "place_id": "ChIJIZy2BuS43kcRsAzH6TBsWk8",
+        "plus_code": {
+          "compound_code": "4588+77 Folkestone, UK",
+          "global_code": "9F334588+77"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "High Halden Church of England, Primary School, Church Hill, High Halden, Ashford, TN26 3JB": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Hill",
+            "short_name": "Church Hill",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "High Halden",
+            "short_name": "High Halden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN26",
+            "short_name": "TN26",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church Hill, High Halden, Ashford TN26, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1025512,
+            "lng": 0.7142643
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1039447302915,
+              "lng": 0.715727080291502
+            },
+            "southwest": {
+              "lat": 51.1012467697085,
+              "lng": 0.7130291197084979
+            }
+          }
+        },
+        "place_id": "ChIJbRTV7TAn30cRMcpNqiml_EY",
+        "plus_code": {
+          "compound_code": "4P37+2P Ashford, UK",
+          "global_code": "9F324P37+2P"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Hythe Bay Church of England, Primary School, Cinque Ports Avenue, Hythe, CT21 6HS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Hythe, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.0886772,
+              "lng": 1.12897
+            },
+            "southwest": {
+              "lat": 51.0466434,
+              "lng": 1.0253247
+            }
+          },
+          "location": {
+            "lat": 51.071739,
+            "lng": 1.081937
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0886772,
+              "lng": 1.12897
+            },
+            "southwest": {
+              "lat": 51.0466434,
+              "lng": 1.0253247
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJwYe_dVe_3kcRyhw8PzKRsao",
+        "types": [
+          "locality",
+          "political"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "John Mayne Church of England, Primary School, High Street, Biddenden, Ashford, TN27 8AL": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "High Street",
+            "short_name": "High St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Biddenden",
+            "short_name": "Biddenden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 8AL",
+            "short_name": "TN27 8AL",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "High St, Biddenden, Ashford TN27 8AL, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1147942,
+            "lng": 0.6416893
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1162386802915,
+              "lng": 0.642834830291502
+            },
+            "southwest": {
+              "lat": 51.1135407197085,
+              "lng": 0.6401368697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJL7zgdxgk30cRwqombBvXMog",
+        "plus_code": {
+          "compound_code": "4J7R+WM Ashford, UK",
+          "global_code": "9F324J7R+WM"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "John Wallis Church of England, Academy, Millbank Road, Ashford, TN23 3HG": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Millbank Road",
+            "short_name": "Millbank Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3HG",
+            "short_name": "TN23 3HG",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Millbank Rd, Ashford TN23 3HG, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1268499,
+            "lng": 0.8555478999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1281677802915,
+              "lng": 0.856904980291502
+            },
+            "southwest": {
+              "lat": 51.1254698197085,
+              "lng": 0.8542070197084979
+            }
+          }
+        },
+        "place_id": "ChIJs22k987b3kcRbFKSc9BJD3Q",
+        "plus_code": {
+          "compound_code": "4VG4+P6 Ashford, UK",
+          "global_code": "9F324VG4+P6"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "John Wesley Church of England, and Methodist Primary School, Wesley School Road, Cuckoo Lane, Singleton, Ashford, TN23 5LW": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wesley School Road",
+            "short_name": "Wesley School Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 5LW",
+            "short_name": "TN23 5LW",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Wesley School Rd, Ashford TN23 5LW, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1339544,
+            "lng": 0.8404725000000001
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.13548068029149,
+              "lng": 0.8419598302915021
+            },
+            "southwest": {
+              "lat": 51.13278271970849,
+              "lng": 0.839261869708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJQe6v43_Z3kcRZGYN9YrpOxs",
+        "plus_code": {
+          "compound_code": "4RMR+H5 Ashford, UK",
+          "global_code": "9F324RMR+H5"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Kingsnorth Church of England, Primary School, Church Hill, Kingsnorth, Ashford, TN23 3EF": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Hill",
+            "short_name": "Church Hill",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kingsnorth",
+            "short_name": "Kingsnorth",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3EF",
+            "short_name": "TN23 3EF",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church Hill, Kingsnorth, Ashford TN23 3EF, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1181646,
+            "lng": 0.8644385
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.11958398029149,
+              "lng": 0.865600230291502
+            },
+            "southwest": {
+              "lat": 51.1168860197085,
+              "lng": 0.8629022697084979
+            }
+          }
+        },
+        "place_id": "ChIJNf_xT7_b3kcRgpUDNRjA0Ls",
+        "plus_code": {
+          "compound_code": "4V97+7Q Ashford, UK",
+          "global_code": "9F324V97+7Q"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Lady Joanna Thornhill Endowed, Primary School, Bridge Street, Wye, Ashford, TN25 5EA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wye",
+            "short_name": "Wye",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 5EA",
+            "short_name": "TN25 5EA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Wye, Ashford TN25 5EA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1831374,
+            "lng": 0.93297
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1846157802915,
+              "lng": 0.9344306802915019
+            },
+            "southwest": {
+              "lat": 51.1819178197085,
+              "lng": 0.9317327197084978
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJGRi5BwPQ3kcRs6i8_b2-kO0",
+        "plus_code": {
+          "compound_code": "5WMM+75 Ashford, UK",
+          "global_code": "9F325WMM+75"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Lydd Primary School, 20 Skinner Road, Lydd, Romney Marsh, TN29 9HW": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "20",
+            "short_name": "20",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Skinner Road",
+            "short_name": "Skinner Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Lydd",
+            "short_name": "Lydd",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Romney Marsh",
+            "short_name": "Romney Marsh",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN29 9HW",
+            "short_name": "TN29 9HW",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "20 Skinner Rd, Lydd, Romney Marsh TN29 9HW, UK",
+        "geometry": {
+          "location": {
+            "lat": 50.9490725,
+            "lng": 0.9059665000000001
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 50.9504472802915,
+              "lng": 0.9077310802915021
+            },
+            "southwest": {
+              "lat": 50.9477493197085,
+              "lng": 0.905033119708498
+            }
+          }
+        },
+        "place_id": "ChIJkf58cj_m3kcR9Fii-mp0j-U",
+        "plus_code": {
+          "compound_code": "WWX4+J9 Romney Marsh, UK",
+          "global_code": "9F22WWX4+J9"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Lyminge Church of England, Primary School, Church Road, Lyminge, Folkestone, CT18 8JA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Road",
+            "short_name": "Church Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Lyminge",
+            "short_name": "Lyminge",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT18 8JA",
+            "short_name": "CT18 8JA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church Rd, Lyminge, Folkestone CT18 8JA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1282157,
+            "lng": 1.0886982
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.12958113029151,
+              "lng": 1.089974730291502
+            },
+            "southwest": {
+              "lat": 51.12688316970851,
+              "lng": 1.087276769708498
+            }
+          }
+        },
+        "place_id": "ChIJmfg3uwjH3kcRSGZokOgv9RY",
+        "plus_code": {
+          "compound_code": "43HQ+7F Folkestone, UK",
+          "global_code": "9F3343HQ+7F"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Lympne Church of England, Primary School, Octavian Drive, Lympne, Hythe, CT21 4JG": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Octavian Drive",
+            "short_name": "Octavian Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Lympne",
+            "short_name": "Lympne",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT21 4JG",
+            "short_name": "CT21 4JG",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Octavian Dr, Lympne, Hythe CT21 4JG, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.07688540000001,
+              "lng": 1.0293171
+            },
+            "southwest": {
+              "lat": 51.07481529999998,
+              "lng": 1.0276572
+            }
+          },
+          "location": {
+            "lat": 51.0761073,
+            "lng": 1.0282619
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0771993302915,
+              "lng": 1.029836130291502
+            },
+            "southwest": {
+              "lat": 51.0745013697085,
+              "lng": 1.027138169708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EidPY3RhdmlhbiBEciwgTHltcG5lLCBIeXRoZSBDVDIxIDRKRywgVUsiLiosChQKEgntJL-1WMHeRxGZZl9rQGvEjxIUChIJDeHluVjB3kcRohIvm6yPvNA",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Martello Primary, Warren Way, Folkestone, CT19 6DT": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Warren Way",
+            "short_name": "Warren Way",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 6DT",
+            "short_name": "CT19 6DT",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Warren Way, Folkestone CT19 6DT, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0892592,
+            "lng": 1.1960044
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0902859802915,
+              "lng": 1.196856480291502
+            },
+            "southwest": {
+              "lat": 51.0875880197085,
+              "lng": 1.194158519708498
+            }
+          }
+        },
+        "place_id": "ChIJIZS1KbW-3kcRrTFh8e3jtBY",
+        "plus_code": {
+          "compound_code": "35QW+PC Folkestone, UK",
+          "global_code": "9F3335QW+PC"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Mersham Primary School, Church Road, Mersham, Ashford, TN25 6NU": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 6NU",
+            "short_name": "TN25 6NU",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mersham County Primary School/The Forstal, Ashford TN25 6NU, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.116099,
+            "lng": 0.9281686
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1174530802915,
+              "lng": 0.9293010802915019
+            },
+            "southwest": {
+              "lat": 51.1147551197085,
+              "lng": 0.9266031197084978
+            }
+          }
+        },
+        "place_id": "ChIJrYTkRTbb3kcRZuK5ND36I1g",
+        "plus_code": {
+          "compound_code": "4W8H+C7 Ashford, UK",
+          "global_code": "9F324W8H+C7"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Morehall Primary, Chart Road, Cheriton, Folkestone, CT19 4PN": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Chart Road",
+            "short_name": "Chart Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 4PN",
+            "short_name": "CT19 4PN",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Chart Rd, Folkestone CT19 4PN, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.08836710000003,
+              "lng": 1.1542103
+            },
+            "southwest": {
+              "lat": 51.08731119999997,
+              "lng": 1.1493697
+            }
+          },
+          "location": {
+            "lat": 51.0880174,
+            "lng": 1.1510904
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0891881302915,
+              "lng": 1.1542103
+            },
+            "southwest": {
+              "lat": 51.0864901697085,
+              "lng": 1.1493697
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EiFDaGFydCBSZCwgRm9sa2VzdG9uZSBDVDE5IDRQTiwgVUsiLiosChQKEgmXaW5-M7_eRxGKU5x7xFz7xBIUChIJMzYOkDS_3kcRqALEkzCesNU",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Mundella Primary School, Black Bull Road, Folkestone, CT19 5QX": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Black Bull Road",
+            "short_name": "Black Bull Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 5QX",
+            "short_name": "CT19 5QX",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Black Bull Rd, Folkestone CT19 5QX, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0879858,
+            "lng": 1.1795499
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0893309302915,
+              "lng": 1.180951730291502
+            },
+            "southwest": {
+              "lat": 51.0866329697085,
+              "lng": 1.178253769708498
+            }
+          }
+        },
+        "place_id": "ChIJd1zN8NK-3kcR3tNWmmFFbts",
+        "plus_code": {
+          "compound_code": "35QH+5R Folkestone, UK",
+          "global_code": "9F3335QH+5R"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Palmarsh Primary School, St Georges Place, Hythe, CT21 6NE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Saint George's Place",
+            "short_name": "St George's Pl",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT21 6NE",
+            "short_name": "CT21 6NE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "St George's Pl, Hythe CT21 6NE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0629447,
+            "lng": 1.0499211
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.06436238029149,
+              "lng": 1.051233330291502
+            },
+            "southwest": {
+              "lat": 51.0616644197085,
+              "lng": 1.048535369708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJJxtBGBPB3kcRzEwSE4ns-ck",
+        "plus_code": {
+          "compound_code": "327X+5X Hythe, UK",
+          "global_code": "9F33327X+5X"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Phoenix Community Primary School, Belmont Road, Kennington, Ashford, TN24 9LS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Belmont Road",
+            "short_name": "Belmont Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kennington",
+            "short_name": "Kennington",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN24 9LS",
+            "short_name": "TN24 9LS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Belmont Rd, Kennington, Ashford TN24 9LS, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.163821,
+            "lng": 0.88161
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.16539728029151,
+              "lng": 0.882993780291502
+            },
+            "southwest": {
+              "lat": 51.16269931970851,
+              "lng": 0.8802958197084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJMeF6vWTa3kcRoEjMNFva9EI",
+        "plus_code": {
+          "compound_code": "5V7J+GJ Ashford, UK",
+          "global_code": "9F325V7J+GJ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Pluckley Church of England, Primary Academy, The Street, Pluckley, Ashford, TN27 0QS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "The Street",
+            "short_name": "The St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Pluckley",
+            "short_name": "Pluckley",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 0QS",
+            "short_name": "TN27 0QS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "The St, Pluckley, Ashford TN27 0QS, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.17565460000002,
+              "lng": 0.7553892
+            },
+            "southwest": {
+              "lat": 51.17423609999998,
+              "lng": 0.7534333
+            }
+          },
+          "location": {
+            "lat": 51.1747861,
+            "lng": 0.7543129
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1762943302915,
+              "lng": 0.7557602302915021
+            },
+            "southwest": {
+              "lat": 51.17359636970851,
+              "lng": 0.753062269708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EiZUaGUgU3QsIFBsdWNrbGV5LCBBc2hmb3JkIFROMjcgMFFTLCBVSyIuKiwKFAoSCXn-NjEC2N5HEQ-cnPc9JcU1EhQKEgkn5YslAtjeRxFT3EnQLq4OHQ",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Repton Manor Primary School, Repton Avenue, Ashford, TN23 3RX": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Repton Avenue",
+            "short_name": "Repton Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 3RX",
+            "short_name": "TN23 3RX",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Repton Ave, Ashford TN23 3RX, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1574442,
+            "lng": 0.8530957
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1586821802915,
+              "lng": 0.854271630291502
+            },
+            "southwest": {
+              "lat": 51.1559842197085,
+              "lng": 0.8515736697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJjcRPIxba3kcRsEoEMw1wq40",
+        "plus_code": {
+          "compound_code": "5V43+X6 Ashford, UK",
+          "global_code": "9F325V43+X6"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Rolvenden Primary School, Hastings Road, Rolvenden, Cranbrook, TN17 4LS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hastings Road",
+            "short_name": "Hastings Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Rolvenden",
+            "short_name": "Rolvenden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Cranbrook",
+            "short_name": "Cranbrook",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN17 4LS",
+            "short_name": "TN17 4LS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "High Weald AONB, Cranbrook, Hastings Rd, Rolvenden, Cranbrook TN17 4LS, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.05074459999999,
+            "lng": 0.6297906999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.05205773029149,
+              "lng": 0.631227030291502
+            },
+            "southwest": {
+              "lat": 51.0493597697085,
+              "lng": 0.6285290697084979
+            }
+          }
+        },
+        "place_id": "ChIJk45Bi0Ui30cRZ9nWMSCLA10",
+        "plus_code": {
+          "compound_code": "3J2H+7W Cranbrook, UK",
+          "global_code": "9F323J2H+7W"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Saltwood Church of England, Primary School, Grange Road, Saltwood, Hythe, CT21 4QS": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Grange Road",
+            "short_name": "Grange Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Saltwood",
+            "short_name": "Saltwood",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT21 4QS",
+            "short_name": "CT21 4QS",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Grange Rd, Saltwood, Hythe CT21 4QS, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.08372990000002,
+              "lng": 1.0832221
+            },
+            "southwest": {
+              "lat": 51.08057359999998,
+              "lng": 1.0776452
+            }
+          },
+          "location": {
+            "lat": 51.0813479,
+            "lng": 1.0801482
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.08372990000002,
+              "lng": 1.0832221
+            },
+            "southwest": {
+              "lat": 51.08057359999998,
+              "lng": 1.0776452
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EidHcmFuZ2UgUmQsIFNhbHR3b29kLCBIeXRoZSBDVDIxIDRRUywgVUsiLiosChQKEgmT_i1M18DeRxGNjgLDek9AFBIUChIJG1TgUdfA3kcR0j-ofhGYVsI",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Sandgate Primary School, Coolinge Lane, Folkestone, CT20 3QU": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Coolinge Lane",
+            "short_name": "Coolinge Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT20 3QU",
+            "short_name": "CT20 3QU",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Coolinge Ln, Folkestone CT20 3QU, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.079905,
+            "lng": 1.1516943
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0812852802915,
+              "lng": 1.153413480291502
+            },
+            "southwest": {
+              "lat": 51.0785873197085,
+              "lng": 1.150715519708498
+            }
+          }
+        },
+        "place_id": "ChIJ-VkUDjq_3kcRyhKUOeVPgpc",
+        "plus_code": {
+          "compound_code": "35H2+XM Folkestone, UK",
+          "global_code": "9F3335H2+XM"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Seabrook Church of England Primary, School, Seabrook Road, Hythe, CT21 5RL": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Seabrook Road",
+            "short_name": "Seabrook Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT21 5RL",
+            "short_name": "CT21 5RL",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Seabrook Rd, Hythe CT21 5RL, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0723745,
+            "lng": 1.1201447
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0737855802915,
+              "lng": 1.121511280291502
+            },
+            "southwest": {
+              "lat": 51.0710876197085,
+              "lng": 1.118813319708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJmxfjVLzA3kcRYuifgUiTNlI",
+        "plus_code": {
+          "compound_code": "34CC+W3 Hythe, UK",
+          "global_code": "9F3334CC+W3"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Sellindge Primary School, Main Road, Sellindge, Ashford, TN25 6JY": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sellindge",
+            "short_name": "Sellindge",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 6JY",
+            "short_name": "TN25 6JY",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Sellindge, Ashford TN25 6JY, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.10440089999999,
+            "lng": 1.0026656
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1056560802915,
+              "lng": 1.003918980291502
+            },
+            "southwest": {
+              "lat": 51.1029581197085,
+              "lng": 1.001221019708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJhbmHHG3E3kcRKOntpyL0lc0",
+        "plus_code": {
+          "compound_code": "4233+Q3 Ashford, UK",
+          "global_code": "9F334233+Q3"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Selsted Church of England, Primary School, Wootton Lane, Selsted, Dover, CT15 7HH": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wootton Lane",
+            "short_name": "Wootton Ln",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Wootton Ln, United Kingdom",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.1760841,
+              "lng": 1.1893659
+            },
+            "southwest": {
+              "lat": 51.1565428,
+              "lng": 1.1754073
+            }
+          },
+          "location": {
+            "lat": 51.1660193,
+            "lng": 1.1769515
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1760841,
+              "lng": 1.1893659
+            },
+            "southwest": {
+              "lat": 51.1565428,
+              "lng": 1.1754073
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJMyH589C53kcRh1SK4Y-ELw8",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Smarden Primary Academy, Pluckley Road, Smarden, Ashford, TN27 8ND": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Pluckley Road",
+            "short_name": "Pluckley Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Smarden",
+            "short_name": "Smarden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 8ND",
+            "short_name": "TN27 8ND",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Pluckley Rd, Smarden, Ashford TN27 8ND, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.15429180000002,
+              "lng": 0.7062227000000001
+            },
+            "southwest": {
+              "lat": 51.15234419999997,
+              "lng": 0.6960579999999998
+            }
+          },
+          "location": {
+            "lat": 51.1540462,
+            "lng": 0.7004556
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1546669802915,
+              "lng": 0.7062227000000001
+            },
+            "southwest": {
+              "lat": 51.1519690197085,
+              "lng": 0.6960579999999998
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EipQbHVja2xleSBSZCwgU21hcmRlbiwgQXNoZm9yZCBUTjI3IDhORCwgVUsiLiosChQKEgkpxkD4tiffRxFs5NVy6MjadxIUChIJCV-kBkwm30cR85ewfni4pBM",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "7",
+            "short_name": "7",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Long Meadow Drive",
+            "short_name": "Long Mdw Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Smarden",
+            "short_name": "Smarden",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN27 8FN",
+            "short_name": "TN27 8FN",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "7 Long Mdw Dr, Smarden, Ashford TN27 8FN, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1505562,
+            "lng": 0.6955817
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1519695302915,
+              "lng": 0.697020930291502
+            },
+            "southwest": {
+              "lat": 51.1492715697085,
+              "lng": 0.6943229697084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJL21Mkown30cRuVVEch4nUWE",
+        "plus_code": {
+          "compound_code": "5M2W+66 Ashford, UK",
+          "global_code": "9F325M2W+66"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Smeeth Community Primary School, Caroland Close, Smeeth, Ashford, TN25 6RX": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Caroland Close",
+            "short_name": "Caroland Cl",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Smeeth",
+            "short_name": "Smeeth",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 6RX",
+            "short_name": "TN25 6RX",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Caroland Cl, Smeeth, Ashford TN25 6RX, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.12264510000003,
+              "lng": 0.9678840999999999
+            },
+            "southwest": {
+              "lat": 51.12183739999998,
+              "lng": 0.9659231999999998
+            }
+          },
+          "location": {
+            "lat": 51.1220086,
+            "lng": 0.9667075
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1235902302915,
+              "lng": 0.9682526302915019
+            },
+            "southwest": {
+              "lat": 51.12089226970851,
+              "lng": 0.9655546697084978
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EilDYXJvbGFuZCBDbCwgU21lZXRoLCBBc2hmb3JkIFROMjUgNlJYLCBVSyIuKiwKFAoSCTGt5p3vxN5HERASKbO3OdwzEhQKEgmrzNJ-78TeRxENXJh1ry-7jA",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Augustine\u2019s Catholic Primary, School (Hythe), St. John\u2019s Road, Hythe, CT21 4BE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Saint Johns Road",
+            "short_name": "St Johns Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hythe",
+            "short_name": "Hythe",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT21 4BE",
+            "short_name": "CT21 4BE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "St Johns Rd, Hythe CT21 4BE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0782322,
+            "lng": 1.0719061
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0793199302915,
+              "lng": 1.073457130291502
+            },
+            "southwest": {
+              "lat": 51.0766219697085,
+              "lng": 1.070759169708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJLdnacSfB3kcRO09QU529Glo",
+        "plus_code": {
+          "compound_code": "33HC+7Q Hythe, UK",
+          "global_code": "9F3333HC+7Q"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Eanswythe\u2019s Church of England, Primary Academy, Church Street, Folkestone, CT20 1SE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Church Street",
+            "short_name": "Church St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT20 1SW",
+            "short_name": "CT20 1SW",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Church St, Folkestone CT20 1SW, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0787766,
+            "lng": 1.1817893
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0802440302915,
+              "lng": 1.183345880291502
+            },
+            "southwest": {
+              "lat": 51.0775460697085,
+              "lng": 1.180647919708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJWc5gT8W-3kcRw4BqiSxNxao",
+        "plus_code": {
+          "compound_code": "35HJ+GP Folkestone, UK",
+          "global_code": "9F3335HJ+GP"
+        },
+        "types": [
+          "church",
+          "establishment",
+          "place_of_worship",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Martin\u2019s Church of England, Primary School (Folkestone), Horn Street, Folkestone, CT20 3JJ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Horn Street",
+            "short_name": "Horn St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT20 3JJ",
+            "short_name": "CT20 3JJ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Horn St, Folkestone CT20 3JJ, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0850389,
+            "lng": 1.125409
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0864515802915,
+              "lng": 1.126560530291502
+            },
+            "southwest": {
+              "lat": 51.0837536197085,
+              "lng": 1.123862569708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJiae96le_3kcRFcT03Ot1wVg",
+        "plus_code": {
+          "compound_code": "34PG+25 Folkestone, UK",
+          "global_code": "9F3334PG+25"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Ashford, St Mary\u2019s Church of England, Primary School, Western Avenue, Ashford, TN23 1ND": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Western Avenue",
+            "short_name": "Western Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 1ND",
+            "short_name": "TN23 1ND",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Western Ave, Ashford TN23 1ND, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1516978,
+            "lng": 0.8648847
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1532851802915,
+              "lng": 0.8661766802915021
+            },
+            "southwest": {
+              "lat": 51.1505872197085,
+              "lng": 0.863478719708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJN4WzFT_a3kcRjFJkmvmG2VM",
+        "plus_code": {
+          "compound_code": "5V27+MX Ashford, UK",
+          "global_code": "9F325V27+MX"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Michael\u2019s Church of England, Primary School, Ashford Road, St Michaels, Tenterden, TN30 6PU": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Ashford Road",
+            "short_name": "Ashford Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Tenterden",
+            "short_name": "Tenterden",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN30 6PU",
+            "short_name": "TN30 6PU",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Ashford Rd, St Michaels, Tenterden TN30 6PU, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0865462,
+            "lng": 0.6902742
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.08790588029149,
+              "lng": 0.691708080291502
+            },
+            "southwest": {
+              "lat": 51.0852079197085,
+              "lng": 0.6890101197084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJs4cLYach30cRPD4--rpiEEM",
+        "plus_code": {
+          "compound_code": "3MPR+J4 Tenterden, UK",
+          "global_code": "9F323MPR+J4"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Nicholas Church of England, Primary Academy, Fairfield Road, New Romney, TN28 8BP": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Fairfield Road",
+            "short_name": "Fairfield Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "New Romney",
+            "short_name": "New Romney",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN28 8BP",
+            "short_name": "TN28 8BP",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Fairfield Rd, New Romney TN28 8BP, UK",
+        "geometry": {
+          "location": {
+            "lat": 50.98871519999999,
+            "lng": 0.9427367999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 50.9904148802915,
+              "lng": 0.9440249802915021
+            },
+            "southwest": {
+              "lat": 50.9877169197085,
+              "lng": 0.941327019708498
+            }
+          }
+        },
+        "place_id": "ChIJbfJo3RLo3kcRj6cj5rtDmR4",
+        "plus_code": {
+          "compound_code": "XWQV+F3 New Romney, UK",
+          "global_code": "9F22XWQV+F3"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Peter\u2019s Church of England, Primary School, The Durlocks, Folkestone, CT19 6AL": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "The Durlocks",
+            "short_name": "The Durlocks",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 6AL",
+            "short_name": "CT19 6AL",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "The Durlocks, Folkestone CT19 6AL, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0813243,
+            "lng": 1.1875956
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0827575802915,
+              "lng": 1.188974780291502
+            },
+            "southwest": {
+              "lat": 51.0800596197085,
+              "lng": 1.186276819708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJGQH-0Mi-3kcRn5m4pOtvTH4",
+        "plus_code": {
+          "compound_code": "35JQ+G2 Folkestone, UK",
+          "global_code": "9F3335JQ+G2"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Simon of England Roman Catholic, Primary School, Noakes Meadow, Ashford, TN23 4RB": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "105",
+            "short_name": "105",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Noakes Meadow",
+            "short_name": "Noakes Mdw",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 4RB",
+            "short_name": "TN23 4RB",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "105 Noakes Mdw, Ashford TN23 4RB, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.137691,
+            "lng": 0.8573411
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1390399802915,
+              "lng": 0.858690080291502
+            },
+            "southwest": {
+              "lat": 51.1363420197085,
+              "lng": 0.8559921197084979
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJDQrTczTa3kcRlqYkjCZUiac",
+        "plus_code": {
+          "compound_code": "4VQ4+3W Ashford, UK",
+          "global_code": "9F324VQ4+3W"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "St Teresa\u2019s Catholic Primary School, Quantock Drive, Ashford, TN24 8QN": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Quantock Drive",
+            "short_name": "Quantock Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN24 8QN",
+            "short_name": "TN24 8QN",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Quantock Dr, Ashford TN24 8QN, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1556106,
+            "lng": 0.8669247999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1569255302915,
+              "lng": 0.868369830291502
+            },
+            "southwest": {
+              "lat": 51.1542275697085,
+              "lng": 0.865671869708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJ4Qu8GGra3kcRdyuhIjC5Jho",
+        "plus_code": {
+          "compound_code": "5V48+6Q Ashford, UK",
+          "global_code": "9F325V48+6Q"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Stella Maris Catholic Primary, Academy, Parkfield Road, Folkestone, CT19 5BY": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Parkfield Road",
+            "short_name": "Parkfield Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Folkestone",
+            "short_name": "Folkestone",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT19 5BY",
+            "short_name": "CT19 5BY",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Parkfield Rd, Folkestone CT19 5BY, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.0873882,
+            "lng": 1.1714842
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.08855388029149,
+              "lng": 1.173201780291502
+            },
+            "southwest": {
+              "lat": 51.0858559197085,
+              "lng": 1.170503819708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJrbhPWtS-3kcRPmFmC0GGNWg",
+        "plus_code": {
+          "compound_code": "35PC+XH Folkestone, UK",
+          "global_code": "9F3335PC+XH"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Stelling Minnis Church of England, Primary School, Bossingham Road, Stelling Minnis, Canterbury, CT4 6DU": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Bossingham Road",
+            "short_name": "Bossingham Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Stelling Minnis",
+            "short_name": "Stelling Minnis",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Canterbury",
+            "short_name": "Canterbury",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "CT4 6DU",
+            "short_name": "CT4 6DU",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Bossingham Rd, Stelling Minnis, Canterbury CT4 6DU, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.19788790000003,
+              "lng": 1.075913
+            },
+            "southwest": {
+              "lat": 51.19416159999997,
+              "lng": 1.0724261
+            }
+          },
+          "location": {
+            "lat": 51.1954145,
+            "lng": 1.0734932
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.19788790000003,
+              "lng": 1.075913
+            },
+            "southwest": {
+              "lat": 51.19416159999997,
+              "lng": 1.0724261
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EjZCb3NzaW5naGFtIFJkLCBTdGVsbGluZyBNaW5uaXMsIENhbnRlcmJ1cnkgQ1Q0IDZEVSwgVUsiLiosChQKEgmhS47UjsjeRxGuKylvOz3YThIUChIJS4F0tvTI3kcRtNfLZWYQE9w",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Stowting Church of England, Primary School, Stowting Hill, Stowting, Ashford, TN25 6BE": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Stowting Hill",
+            "short_name": "Stowting Hill",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Stowting",
+            "short_name": "Stowting",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN25 6BE",
+            "short_name": "TN25 6BE",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Stowting Hill, Stowting, Ashford TN25 6BE, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1362792,
+            "lng": 1.0362981
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.13760613029149,
+              "lng": 1.037734830291502
+            },
+            "southwest": {
+              "lat": 51.1349081697085,
+              "lng": 1.035036869708498
+            }
+          }
+        },
+        "place_id": "ChIJt_iWMHzG3kcRp9KlLI-1ACw",
+        "plus_code": {
+          "compound_code": "42PP+GG Ashford, UK",
+          "global_code": "9F3342PP+GG"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Tenterden Infant School, Recreation Ground Road, Tenterden, TN30 6RA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Recreation Ground Road",
+            "short_name": "Recreation Ground Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Tenterden",
+            "short_name": "Tenterden",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN30 6RA",
+            "short_name": "TN30 6RA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Recreation Ground Rd, Tenterden TN30 6RA, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.06721659999999,
+            "lng": 0.6907424
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0686255302915,
+              "lng": 0.692111980291502
+            },
+            "southwest": {
+              "lat": 51.0659275697085,
+              "lng": 0.6894140197084979
+            }
+          }
+        },
+        "place_id": "ChIJlznZbBkh30cRKGJjNm0kf9c",
+        "plus_code": {
+          "compound_code": "3M8R+V7 Tenterden, UK",
+          "global_code": "9F323M8R+V7"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Victoria Road Primary School, Victoria Road, Ashford, TN23 7HQ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Victoria Road",
+            "short_name": "Victoria Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN23 7HQ",
+            "short_name": "TN23 7HQ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Victoria Rd, Ashford TN23 7HQ, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.14497050000001,
+            "lng": 0.8693426
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.1462699302915,
+              "lng": 0.870662480291502
+            },
+            "southwest": {
+              "lat": 51.14357196970851,
+              "lng": 0.8679645197084979
+            }
+          }
+        },
+        "place_id": "ChIJJ7ripkja3kcR6M4JNyw8I0w",
+        "plus_code": {
+          "compound_code": "4VV9+XP Ashford, UK",
+          "global_code": "9F324VV9+XP"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Willesborough Infant School, Church Road, Willesborough, Ashford, TN24 0JZ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Willesborough",
+            "short_name": "Willesborough",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN24 0JZ",
+            "short_name": "TN24 0JZ",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Highfield Road, Willesborough, Ashford TN24 0JZ, UK",
+        "geometry": {
+          "location": {
+            "lat": 51.1393964,
+            "lng": 0.9029301
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.14074538029149,
+              "lng": 0.9042790802915021
+            },
+            "southwest": {
+              "lat": 51.13804741970849,
+              "lng": 0.901581119708498
+            }
+          }
+        },
+        "place_id": "ChIJEQ86XOPa3kcRwlXDU18MlPI",
+        "plus_code": {
+          "compound_code": "4WQ3+Q5 Ashford, UK",
+          "global_code": "9F324WQ3+Q5"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "primary_school",
+          "school"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Wittersham Church of England, Primary School, The Street, Wittersham, Tenterden, TN30 7EA": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "The Street",
+            "short_name": "The St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Wittersham",
+            "short_name": "Wittersham",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Tenterden",
+            "short_name": "Tenterden",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "TN30 7EA",
+            "short_name": "TN30 7EA",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "The St, Wittersham, Tenterden TN30 7EA, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.01398110000002,
+              "lng": 0.7087124
+            },
+            "southwest": {
+              "lat": 51.00604039999996,
+              "lng": 0.6975665999999999
+            }
+          },
+          "location": {
+            "lat": 51.01017,
+            "lng": 0.7020299
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 51.01398110000002,
+              "lng": 0.7087124
+            },
+            "southwest": {
+              "lat": 51.00604039999996,
+              "lng": 0.6975665999999999
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "EipUaGUgU3QsIFdpdHRlcnNoYW0sIFRlbnRlcmRlbiBUTjMwIDdFQSwgVUsiLiosChQKEgmL3rXvKSDfRxGul5iUZQyJzBIUChIJDRuEtSkg30cRWq_soaCfpis",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Woodchurch Church of England, Primary School, Bethersden Road, Woodchurch, Ashford, TN26 3QJ": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "TN26 3QJ",
+            "short_name": "TN26 3QJ",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Woodchurch",
+            "short_name": "Woodchurch",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ashford",
+            "short_name": "Ashford",
+            "types": [
+              "postal_town"
+            ]
+          },
+          {
+            "long_name": "Kent",
+            "short_name": "Kent",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "England",
+            "short_name": "England",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United Kingdom",
+            "short_name": "GB",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Woodchurch, Ashford TN26 3QJ, UK",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 51.0821281,
+              "lng": 0.7718166
+            },
+            "southwest": {
+              "lat": 51.08022560000001,
+              "lng": 0.7698886
+            }
+          },
+          "location": {
+            "lat": 51.0814032,
+            "lng": 0.7707174
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 51.0825258302915,
+              "lng": 0.7722015802915021
+            },
+            "southwest": {
+              "lat": 51.0798278697085,
+              "lng": 0.769503619708498
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJP3vsSDjf3kcRW65Ym9Xxf0I",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  }
+}

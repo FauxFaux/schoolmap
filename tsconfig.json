@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "lib": [
+      "es2019",
+      "dom"
+    ],
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": ".lint/dist",
+    "incremental": true,
+    "pretty": true,
+
+    "strict": true,
+
+    "noUnusedLocals": true,
+    "skipLibCheck": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
+    "resolveJsonModule": true,
+
+    "isolatedModules": true,
+    "esModuleInterop": true
+  },
+  "include": ["./web/**/*"],
+}
